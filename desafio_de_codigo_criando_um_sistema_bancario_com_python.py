@@ -112,9 +112,9 @@ while True:
     elif opcao == 3:
         print(extrato)
         print()
-        print(f'SALDO: {saldo}')
+        print(f'SALDO: R$ {saldo}')
     
     else:
         print("Digite uma opção válida!")
         print()
-        print(f'SALDO: {saldo}')
+        print(f'SALDO: R$ {saldo}')
